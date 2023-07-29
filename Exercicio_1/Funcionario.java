@@ -24,6 +24,7 @@ public class Funcionario {
     }
 
     public void addAumento(double valor){
+
         this.salary += valor;
     }
 

@@ -1,2 +1,2 @@
-# exercicios-de-orientacao-a-objeto
-atividades realizadas para praticar a orientação a objetos.
+# exercicios-fixa-o-java
+atividades realizadas para praticar os conceitos basicos da linguagem java.
